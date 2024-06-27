@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-##  📦 Sistema de Gerenciamento de Vendas (Sugestão) 📦
+##  📦 Sistema de Gerenciamento de Vendas📦
 
 Este projeto parece ser um backend robusto para um sistema de gerenciamento de vendas, desenvolvido com Node.js e provavelmente utilizando o framework Express. A estrutura revela atenção à segurança, organização de código e persistência de dados com banco de dados relacional.
 
@@ -55,6 +54,3 @@ Contém todo o código-fonte principal da aplicação.
 - Incluir informações sobre como rodar os testes. 
 
 Com essas informações adicionais, o README ficará ainda mais completo e útil! 👍 
-=======
-
->>>>>>> ef8b808340c477af4b0eacea460d9a30d8fb75da
